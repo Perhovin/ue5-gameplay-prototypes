@@ -15,6 +15,7 @@ Short gameplay-mechanic prototypes built in Unreal Engine 5 (2023): character mo
 | 07 | [Enemy Bot AI](videos/07-enemy-bot-ai.mp4) | <img src="previews/07-enemy-bot-ai.gif" width="380"> | Enemy bots that engage the player. |
 | 08 | [Improved Character Movement](videos/08-improved-character-movement.mp4) | <img src="previews/08-improved-character-movement.gif" width="380"> | Before / after comparison of the running animation (preview sped up). |
 | 09 | [Gameplay Mechanics Prototype](videos/09-gameplay-mechanics-prototype.mp4) | <img src="previews/09-gameplay-mechanics-prototype.gif" width="380"> | A "fake door" compared with a "real door" opened with a button (preview sped up). |
+| 10 | [Cast Scene Test](videos/10-cast-scene-test.mp4) | <img src="previews/10-cast-scene-test.gif" width="380"> | Cinematic scene test: character animation played back in the engine (cropped to the Unreal Engine viewport, no audio). |
 
 Click a prototype name to open the full video. Long previews are sped up.
 
